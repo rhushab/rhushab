@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-# I'm Rhushabh!
-
 ## About Me
 I'm a passionate software engineer with 1.5 years of experience, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy building scalable web applications and solving complex problems with clean and efficient code.
 
 ## Skills
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React.js, Redux, HTML, CSS 
+- **Languages:** JavaScript (ES6+), Python, Java
+- **Frontend:** React.js, Redux
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Database:** MongoDB, MySQL
 - **Unit Testing:** Postman
