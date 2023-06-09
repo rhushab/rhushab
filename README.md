@@ -6,7 +6,7 @@ I'm a passionate software engineer, specializing in the MERN (MongoDB, Express.j
 ## Skills
 - **Languages:** JavaScript (ES6+), Python, Java
 - **Frontend:** React.js, Redux
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Backend:** Node.js, Express.js, Mongoose
 - **Database:** MongoDB, MySQL
 - **Unit Testing:** Postman
 - **Version Control:** Git, GitHub
