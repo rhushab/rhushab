@@ -10,7 +10,7 @@ I'm a passionate software engineer, specializing in the MERN (MongoDB, Express.j
 - **Database:** MongoDB, MySQL
 - **Unit Testing:** Postman
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku
+- **Deployment:** Heroku, Render, Fly.io
 - **Other:** RESTful APIs, JSON, Multer, Babel
 
  <!-- ## Projects
