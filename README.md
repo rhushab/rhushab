@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I'm a passionate software engineer, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy building scalable web applications and solving complex problems with clean and efficient code.
+I'm a passionate software engineer. I enjoy building scalable web applications and solving complex problems with clean and efficient code.
 
 ## Skills
 - **Languages:** C++, JavaScript (ES6+), Python, Java
