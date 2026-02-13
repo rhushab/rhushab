@@ -8,7 +8,7 @@ I'm a passionate software engineer. I enjoy building scalable web applications a
 - **Frontend:** React.js, Redux
 - **Backend:** Node.js, Express.js, Mongoose
 - **Database:** MongoDB, MySQL
-- **Unit Testing:** Postman
+- **API Testing:** Postman
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku, Render, Fly.io
 - **Other:** RESTful APIs, JSON, Multer, Babel
