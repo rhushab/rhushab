@@ -26,12 +26,6 @@ I'm a passionate software engineer. I enjoy building scalable web applications a
 - **Bachelor's Degree** in Computer Science from [University Name] (Year)
 - **Online Courses** and **Self-Study** (mention relevant courses, certifications, or online resources you've completed) -->
 
-## Contact Me
-- **Email:** rhushabhbontapallee@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/rhushabhb/
-<!-- **Portfolio:** [Your Portfolio Website](link-to-your-portfolio) -->
-
-
 Feel free to reach out to me if you have any questions or collaboration opportunities!
 
 
