@@ -4,7 +4,7 @@
 I'm a passionate software engineer. I enjoy building scalable web applications and solving complex problems with clean and efficient code.
 
 ## Skills
-- **Languages:** C++, JavaScript (ES6+), Python, Java
+- **Languages:** Go, C++, Java
 - **Frontend:** React.js, Redux
 - **Backend:** Node.js, Express.js, Mongoose
 - **Database:** MongoDB, MySQL
